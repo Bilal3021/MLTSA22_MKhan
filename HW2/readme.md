@@ -1,1 +1,2 @@
-aaaaaaaaaaaaaaaaaaaa
+In this homework I have worked with Ingrid and Collin. I was struggling in the project at start,specifically in merging the csv files, collin helped me to get started. 
+In this project, I have learnt how to obtain datasets from kaggle using API. I have also learnt manipulating files in google drive using google collab. This project has allowed me to familiarize myself with the data science libraries of python. This project has also given, some insights on handling and manipulating large datasets. 
